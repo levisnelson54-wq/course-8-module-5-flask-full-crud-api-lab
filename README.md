@@ -42,3 +42,4 @@ deleting resources using HTTP methods and JSON.
 ```http
 POST /events
 Content-Type: application/json
+
